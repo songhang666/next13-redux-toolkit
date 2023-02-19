@@ -1,0 +1,25 @@
+.count {
+  padding-top: 6rem;
+  text-align: center;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding:0 6rem;
+  min-height: 40vh;
+}
+
+.button {
+  margin: 30px;
+  padding: 8px 20px;
+  background-color: #117f4f;
+  border: 0;
+  box-shadow: 0 0 2px 1px #909090;
+  border-radius: 10px;
+  color: white;
+  font-size: 18px;
+  font-weight: 900;
+}
